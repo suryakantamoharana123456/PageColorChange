@@ -1,0 +1,67 @@
+#grey{
+    padding: 30px;
+    background-color: grey;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#yellow{
+    padding: 30px;
+    background-color: yellow;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#skyblue{
+    padding: 30px;
+    background-color: skyblue;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#green{
+    padding: 30px;
+    background-color: green;
+    border-radius: 10px;
+    border: 1px solid black;
+}#red{
+    padding: 30px;
+    background-color: red;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#purple{
+    padding: 30px;
+    background-color: purple;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#brown{
+    padding: 30px;
+    background-color: brown;
+    border-radius: 10px;
+    border: 1px solid black;
+}#blue{
+    padding: 30px;
+    background-color: blue;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#pink{
+    padding: 30px;
+    background-color: pink;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#black{
+    padding: 30px;
+    background-color: black;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+#orange{
+    padding: 30px;
+    background-color: orange;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+span{
+    margin: 10px;
+}
